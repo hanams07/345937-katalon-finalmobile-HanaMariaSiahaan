@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_Search</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>96eea4eb-3a90-425a-bde2-4ec611773be6</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>49344ed3-b020-4ee3-8f8b-fab40eab6b2f</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>2243d017-cc61-438e-b7bd-076d8f7e45cb</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>386a58f9-e0e6-4ae0-88ba-33bbce7ae9f4</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>true</defaultValue>
+      <description></description>
+      <id>49344ed3-b020-4ee3-8f8b-fab40eab6b2f</id>
+      <masked>false</masked>
+      <name>search</name>
+   </variable>
+   <variable>
+      <defaultValue>'Laptops (11)'</defaultValue>
+      <description></description>
+      <id>2243d017-cc61-438e-b7bd-076d8f7e45cb</id>
+      <masked>false</masked>
+      <name>laptop</name>
+   </variable>
+   <variable>
+      <defaultValue>'tablets'</defaultValue>
+      <description></description>
+      <id>386a58f9-e0e6-4ae0-88ba-33bbce7ae9f4</id>
+      <masked>false</masked>
+      <name>tab</name>
+   </variable>
+</TestCaseEntity>
