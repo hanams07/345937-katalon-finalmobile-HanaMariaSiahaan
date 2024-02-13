@@ -1,5 +1,6 @@
 # 345937-katalon-finalmobile-HanaMariaSiahaan
 Pada readme.md ini untuk melakukan pengujian testing mobile pada aplikasi Advantage+demo+3.2.apk
+Link Demo Testing Mobile : https://drive.google.com/drive/folders/190FGQeJEF7Ze0OGwWZ0R3AGzBbbagBo4?usp=sharing
 
 ## Uji Kasus
 
